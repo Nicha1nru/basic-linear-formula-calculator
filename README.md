@@ -5,4 +5,4 @@ A very basic linear formula calculator, updates soon!
 
 # How it works:
 You enter in a formula like: x12+3 and then you enter in what X is. After that it calculates the eqaution.
-For exampe: x = 3 so x12+3 (3 * 12 + 3) = 39.
+For example: x = 3 so x12+3 (3 * 12 + 3) = 39.
